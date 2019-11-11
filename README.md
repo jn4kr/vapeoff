@@ -1,5 +1,5 @@
 # VapeOff
-VapeOff is a tool wich uses the lack of authentication in the communication protocoll, to controll vaporizers (at the moment only the Crafty) from Storz&Bickel. The issue was reported to Storz&Bickel on 15 August 2019. The 90 days deadline expired on 13.11.2019 without reaction, and therefore this script will be published without fix for the devices.
+VapeOff is a tool wich uses the lack of authentication in the communication protocoll, to control vaporizers (at the moment only the Crafty) from Storz&Bickel. The issue was reported to Storz&Bickel on 15 August 2019. The 90 days deadline expired on 13.11.2019 without reaction, and therefore this script will be published without fix for the devices.
 
 ## Usage
 ```
