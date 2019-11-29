@@ -30,22 +30,22 @@ optional arguments:
 
 ## Examples
 
-Turning all Crafty's on in proximity
+Turning all Crafty's (with bluetooth enabled) on in proximity and activates permament bluetooth.
 ```
-python3 vapeoff.py -o -a
+python3 vapeoff.py -o -a --perm
 ```
 Turning on only a specified device without notification of the owener
 ```
 python3 vapeoff.py -o -m [MAC] --silent
 ```
 
-Preventing tuning on of Crafty's in proximity
-
+Preventing tuning on of all Crafty's in proximity
+As soon as the device is turned on this script connects and stops the heating.
 ```
 python3 vapeoff.py -a
 ```
 
-Letting all Crafty's in proximity vibrate and blink
+Letting all Crafty's (with bluetooth enabled) in proximity vibrate and blink
 ```
 python3 vapeoff.py -a -f
 ```
