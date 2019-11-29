@@ -54,6 +54,11 @@ python3 vapeoff.py -a -f
 
 a) Sometimes disconnecting fails. In this case the connection must be disconnected manually. This is possible via Bluetooth Manager or resetting the Bluetooth interface. 
 
+## What can i do to protect my Crafty?
+Turn off permament bluetooth.
+Connect your smartphone to your Crafty as soons as you turn it on.
+If you realize that your device is heating up without your interaction, leave the area as a bluetooth connection is needed.
+
 ## Dependencies
 * python3
 * bitstring
